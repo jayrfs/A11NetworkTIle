@@ -17,6 +17,6 @@
   -->
 
 <resources>
-    <string name="app_name">TileDemo</string>
-    <string name="calendar_tile_name">New Calendar</string>
+    <string name="app_name">A11NetworkTile</string>
+    <string name="calendar_tile_name">Wifi</string>
 </resources>

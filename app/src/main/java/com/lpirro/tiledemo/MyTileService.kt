@@ -16,7 +16,7 @@
  *
  */
 
-package com.lpirro.tiledemo
+package com.jayrfs.A11NetworkTile
 
 import android.content.Intent
 import android.service.quicksettings.Tile

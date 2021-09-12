@@ -18,7 +18,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lpirro.tiledemo">
+    package="com.jayrfs.A11NetworkTile">
 
     <application
         android:allowBackup="true"
@@ -36,7 +36,7 @@
         </activity>
 
         <service
-            android:name=".MyTileService"
+            android:name=".A11NetworkTile"
             android:icon="@drawable/ic_tile_calendar"
             android:label="@string/calendar_tile_name"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">

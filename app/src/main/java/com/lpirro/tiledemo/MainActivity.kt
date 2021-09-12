@@ -16,7 +16,7 @@
  *
  */
 
-package com.lpirro.tiledemo
+package com.jayrfs.A11NetworkTile
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
